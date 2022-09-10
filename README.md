@@ -18,7 +18,6 @@ Watch live -> https://youtube-clone-poz2.onrender.com/
 
 ## Technologies ⚙️
 
-- HTML5
-- CSS3
+- React JS
 - MUI
 - Rapid APIs
