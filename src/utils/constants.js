@@ -32,3 +32,10 @@ export const categories = [
   { name: "Gym", icon: <FitnessCenterIcon /> },
   { name: "Crypto", icon: <DeveloperModeIcon /> },
 ];
+
+export const demoThumbnailUrl = "";
+export const demoChannelUrl = "";
+export const demoVideoUrl = "";
+export const demoChannelTitle = "";
+export const demoVideoTitle = "";
+export const demoProfilePicture = "";
