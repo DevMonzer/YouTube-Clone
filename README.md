@@ -14,7 +14,7 @@ Watch live -> https://youtube-clone-poz2.onrender.com/
 2. Run `npm install`to download the node_modules folder
 3. Authenticate yourself to the Rapid API website
 
-* The used API: https://rapidapi.com/ytdlfree/api/youtube-v31/
+* The used API: https://rapidapi.com/ytdlfree/api/youtube-v31/ 
 
 ## Technologies ⚙️
 
