@@ -15,7 +15,7 @@ Watch live -> https://youtube-clone-poz2.onrender.com/
 ### Install dependencies
 
 ```bash 
-npm install
+npm install 
 ``` 
 
 ### Run
