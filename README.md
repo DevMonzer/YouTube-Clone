@@ -21,7 +21,7 @@ npm install
 ### Run
 
 ```bash
-npm start
+npm start 
 ``` 
 ## Technologies ⚙️
 
