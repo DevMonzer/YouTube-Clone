@@ -10,7 +10,7 @@ Watch live -> https://youtube-clone-poz2.onrender.com/
 
 ### Authenticate yourself to the Rapid API website
  
-* The used API: https://rapidapi.com/ytdlfree/api/youtube-v31/ 
+* The used API: https://rapidapi.com/ytdlfree/api/youtube-v31/  
    
 ### Install dependencies
  
