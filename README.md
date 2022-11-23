@@ -8,7 +8,7 @@ Watch live -> https://youtube-clone-poz2.onrender.com/
 <br/> <br/>
 <a href="https://ibb.co/7QWF7k9"><img src="https://i.ibb.co/jzMF7Jp/Capture1.jpg" alt="Capture1" border="0"></a>
 
-### Authenticate yourself to the Rapid API website
+### Authenticate yourself to the Rapid API website 
  
 * The used API: https://rapidapi.com/ytdlfree/api/youtube-v31/  
    
