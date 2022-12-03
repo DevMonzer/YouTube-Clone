@@ -16,7 +16,7 @@ Watch live -> https://youtube-clone-poz2.onrender.com/
   
 ```bash  
 npm install 
-``` 
+```  
 
 ### Run
 
