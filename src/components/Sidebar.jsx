@@ -5,7 +5,7 @@ import { categories } from "../utils/constants";
 
 const Categories = ({ selectedCategory, setSelectedCategory }) => (
   <Stack
-    direction="row"
+    direction='row'
     sx={{
       overflowY: "auto",
       height: { sx: "auto", md: "95%" },
@@ -14,7 +14,7 @@ const Categories = ({ selectedCategory, setSelectedCategory }) => (
   >
     {categories.map((category) => (
       <button
-        className="category-btn"
+        className='category-btn'
         onClick={() => setSelectedCategory(category.name)}
         style={{
           background: category.name === selectedCategory && "#FC1503",
@@ -22,14 +22,14 @@ const Categories = ({ selectedCategory, setSelectedCategory }) => (
         }}
         key={category.name}
       >
-        <span
+        {/* <span
           style={{
             color: category.name === selectedCategory ? "white" : "red",
             marginRight: "15px",
           }}
         >
           {category.icon}
-        </span>
+        </span> */}
         <span
           style={{ opacity: category.name === selectedCategory ? "1" : "0.8" }}
         >
