@@ -6,8 +6,8 @@ import { SearchBar } from "./";
 
 const Navbar = () => (
   <Stack
-    direction="row"
-    alignItems="center"
+    direction='row'
+    alignItems='center'
     p={2}
     sx={{
       position: "sticky",
@@ -16,8 +16,8 @@ const Navbar = () => (
       justifyContent: "space-between",
     }}
   >
-    <Link to="/" style={{ display: "flex", alignItems: "center" }}>
-      <img src={logo} alt="logo" height={45} />
+    <Link to='/' style={{ display: "flex", alignItems: "center" }}>
+      <img src={logo} alt='logo' height={45} />
     </Link>
     <SearchBar />
   </Stack>
@@ -27,6 +27,6 @@ export default Navbar;
 
 /*
 
-A Stack is like a navigation bar 
+    A Stack is like a navigation bar 
 
 */
