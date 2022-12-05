@@ -50,7 +50,7 @@ const VideoDetail = () => {
               px={2}
             >
               <Link to={`/channel/${channelId}`}>
-                {/* <Typography
+                <Typography
                   variant={{ sm: "subtitle1", md: "h6" }}
                   color='#fff'
                 >
@@ -58,7 +58,7 @@ const VideoDetail = () => {
                   <CheckCircleIcon
                     sx={{ fontSize: "12px", color: "gray", ml: "5px" }}
                   />
-                </Typography> */}
+                </Typography>
               </Link>
               <Stack direction='row' gap='20px' alignItems='center'>
                 <Typography variant='body1' sx={{ opacity: 0.7 }}>
