@@ -28,10 +28,10 @@ const Feed = () => {
           px: { sx: 0, md: 2 },
         }}
       >
-        {/* <Sidebar
+        <Sidebar
           selectedCategory={selectedCategory}
           setSelectedCategory={setSelectedCategory}
-        /> */}
+        />
 
         <Typography
           className='copyright'
