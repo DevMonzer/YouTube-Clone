@@ -28,4 +28,3 @@ npm start
 - React JS
 - MUI
 - Rapid APIs
- 
