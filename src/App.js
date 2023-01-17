@@ -11,7 +11,7 @@ import {
 
 const App = () => (
   <BrowserRouter>
-    <Box >
+    <Box sx={{ backgroundColor: "#000" }}>
       <Navbar />
       <Routes>
         <Route exact path='/' element={<Feed />} />
