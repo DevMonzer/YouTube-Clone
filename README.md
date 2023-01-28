@@ -1,6 +1,6 @@
 # YouTube Clone
  
-YouTube Clone Videos App   
+YouTube Clone Videos App
 
 Watch live -> https://youtube-clone-poz2.onrender.com/
 
@@ -21,11 +21,10 @@ npm install
 ### Run
 
 ```bash
-npm start 
+npm start
 ``` 
 ## Technologies ⚙️
 
 - React JS
 - MUI
 - Rapid APIs
- 
